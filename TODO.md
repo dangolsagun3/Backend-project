@@ -1,0 +1,6 @@
+- [x] Update package.json to use ES6 modules
+- [x] Fix index.js to use ES6 imports and call connect
+- [x] Update models/product.js to export Product model with proper schema
+- [x] Fix routes/product.js to use router and import Product
+- [x] Mount routes in index.js
+- [x] Test the application
